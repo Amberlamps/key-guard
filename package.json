@@ -1,6 +1,6 @@
 {
   "name": "key-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to create keys based on rules.",
   "main": "index.js",
   "scripts": {
