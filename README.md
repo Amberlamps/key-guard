@@ -2,7 +2,7 @@
 
 ## What is this about?
 
-Orignally this module was created to keep track of keys in redis. But you can use it for any other application of course.
+Orignally this module was created to keep track of keys in redis. But you can use it for any other applications of course.
 Redis is an awesome key/value store, but you can easily lose track of all keys used in production, because there is no schema that every developer of your team has to follow.
 
 ## Install
